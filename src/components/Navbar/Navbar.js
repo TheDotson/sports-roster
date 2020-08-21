@@ -1,6 +1,5 @@
 import React from 'react';
 import Auth from '../Auth/Auth';
-import './Navbar.scss';
 
 class Navbar extends React.Component {
   render() {
@@ -8,7 +7,7 @@ class Navbar extends React.Component {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <h4 className="navbar-brand">Sports Roster</h4>
+          <h4 className="navbar-brand">Average Joe's</h4>
             <ul className="navbar-nav ml-auto">
               <li className="nav-item"><Auth authed={authed}/></li>
             </ul>
