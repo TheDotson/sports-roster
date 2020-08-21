@@ -1,0 +1,50 @@
+{
+  "player01": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Peter LaFleur",
+    "imgUrl": "https://bit.ly/3aJWmUV",
+    "position": "Captain"
+  },
+  "player02": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Katherine Veatch",
+    "imgUrl": "https://bit.ly/3hcfDAO",
+    "position": "Thrower"
+  },
+  "player03": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Gordon Pibb",
+    "imgUrl": "https://bit.ly/3gkhphY",
+    "position": "Sniper"
+  },
+  "player04": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Justin Redman",
+    "imgUrl": "https://bit.ly/3aHMg6U",
+    "position": "Catcher"
+  },
+  "player05": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Steve 'The Pirate' Cowan",
+    "imgUrl": "https://bit.ly/3iV8DZq",
+    "position": "Thrower"
+  },
+  "player06": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Owen Dittman",
+    "imgUrl": "https://bit.ly/3aHubpP",
+    "position": "Corner"
+  },
+  "player07": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Dwight Baumgarten",
+    "imgUrl": "https://i.imgur.com/2isI2cm.jpg",
+    "position": "Catcher"
+  },
+  "player08": {
+    "uid": "hnsqp6FoNGRwhD8P9O2acIpWQnE3",
+    "name": "Patches O'Houlihan",
+    "imgUrl": "https://bit.ly/34lcxXO",
+    "position": "Coach, Deceased"
+  }
+}
