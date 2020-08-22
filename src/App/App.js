@@ -4,6 +4,7 @@ import 'firebase/auth';
 import authData from '../helpers/data/authData';
 import fbConnection from '../helpers/data/connection';
 import Navbar from '../components/Navbar/Navbar';
+import Footer from '../components/Footer/Footer';
 import Team from '../components/Team/Team';
 import './App.scss';
 
@@ -41,6 +42,7 @@ class App extends React.Component {
       <div className="App">
         <Navbar authed={authed}/>
         {loadComponent()}
+        <Footer authed={authed}/>
       </div>
     );
   }
