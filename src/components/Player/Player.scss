@@ -1,0 +1,23 @@
+.card {
+  width: 18rem;
+  margin: 5px;
+  box-shadow: 3px 3px black;
+}
+
+h5 {
+  font-weight: bolder;
+}
+
+.fa-trash-alt, .fa-edit {
+  color: #A61731;
+  cursor: pointer;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.player-image {
+  max-height: 300px;
+}
