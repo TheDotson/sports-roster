@@ -32,7 +32,9 @@ class App extends React.Component {
         const uid = authData.getUid();
         return <Team uid={uid}/>;
       }
-      return '';
+      return (
+        <h2 className="text-center">Please login to view the roster</h2>
+      );
     };
 
     return (
